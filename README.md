@@ -1,5 +1,9 @@
 # SPONLINE
 
+VM Credentials:
+
+username: SP2016/Administrator
+Password: Password@123
 
 Last Day Test : https://www.surveymonkey.com/r/2BTHPRH
 
