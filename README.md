@@ -1,5 +1,8 @@
 # SPONLINE
 
+Send your queries to : ashokkumar.jayabalan@gmail.com
+
+
 VM Credentials:
 
 username: SP2016/Administrator
