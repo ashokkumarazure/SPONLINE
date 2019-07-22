@@ -2,6 +2,9 @@
 
 Send your queries to : ashokkumar.jayabalan@gmail.com
 
+Fork this repository for all sample codes. Download the same practice.
+
+https://github.com/ashokkumarazure/sp-dev-fx-webparts
 
 VM Credentials:
 
